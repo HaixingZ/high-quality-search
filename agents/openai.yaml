@@ -1,0 +1,4 @@
+interface:
+  display_name: "High Quality Source Research"
+  short_description: "Find primary PDFs, white papers, and licensed research sources"
+  default_prompt: "Use $high-quality-source-research to collect high-quality primary materials, prioritizing original PDFs from consulting firms, white papers, regulators, companies, and publicly accessible broker research."
