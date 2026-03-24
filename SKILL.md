@@ -57,7 +57,7 @@ Use this skill to gather high-quality, citation-ready materials with a strong bi
 - Read [references/search-record-format.md](references/search-record-format.md) before saving.
 - After delivering results, write a `.md` archive file to the `research/` subdirectory of the current working directory.
 - File name: `主题-YYMMDD.md` (e.g. `新能源汽车市场-260323.md`).
-- The record must include: source list with `[title](URL)` links, per-source content summary with document structure/TOC and retrieval hints, standout data points, coverage assessment, gaps, and the queries used.
+- The record must include: source list with `[title](URL)` links, **a content summary block for every single source without exception** (document structure/TOC, core content, and retrieval hints), standout data points, coverage assessment, gaps, and the queries used.
 - Tell the user where the file was saved after writing it.
 
 ## Guardrails

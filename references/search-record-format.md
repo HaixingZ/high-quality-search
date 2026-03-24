@@ -39,6 +39,8 @@ Type labels: `consulting report` / `white paper` / `broker research` / `regulato
 
 ## 主要内容摘要
 
+**强制要求：来源列表中的每一条信源都必须有对应的摘要块，不得遗漏任何一条。**
+
 For each source in the list above, write a block:
 
 ### [标题](URL)
